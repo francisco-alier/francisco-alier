@@ -8,5 +8,7 @@ Main topics of interest:
 * Machine Learning Explainability 🔑
 * Started with R but transformed into a Pythonistic human 🐍
 
-Feel free to connect with me on Linkedin https://www.linkedin.com/in/francisco-nogueira-51b2b933/
+Feel free to connect with me
+
+[<img align="left"  width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/francisco-nogueira-51b2b933/)
 
