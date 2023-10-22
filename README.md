@@ -1,6 +1,6 @@
 # Francisco Nogueira - Data Scientist
 
-### Hello! My name is Francisco and I am a Data Scientist currently working at Liberty Mutual Group. With more than 4 years of experience in the insurance industry, I started out as an Actuary and slowly and steadily moved into Data Science 👨🏼‍💻
+### Hello! My name is Francisco and I am a Data Scientist currently working at Liberty Mutual Group. With more than 7 years of experience in the insurance industry, I started out as an Actuary and slowly and steadily moved into Data Science 👨🏼‍💻
 
 ### When I am not programming you can most likely find me trecking in the nature 🌳 and/or drinking a beer 🍺
 ***
